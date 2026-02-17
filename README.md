@@ -1,4 +1,12 @@
-## Hi there 👋
+## Haiii!! ^w^
+I am Guard, I like development and
+
+# UNFINISHED TO BE WORKED ON.
+
+How to reach me: You may contact me via an email! 
+Guardstu5.53@gmail.com
+
+Pronouns: Any
 
 <!--
 **guardstu53-sys/guardstu53-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
