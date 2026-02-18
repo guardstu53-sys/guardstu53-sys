@@ -2,7 +2,7 @@
 Hello! I am Guard.
 I like to develop games. :3 
 
-Currently learning: Python and Lua.<br>Currently working on: Discord bot, games and other stuff.<br><br>Collaborating with: @danhowe0<br>Pronouns: Any<br><br><br>A silly furry femboy! :3<br>Omni, Biro, Demi
+Currently learning: Python and Lua.<br>Currently working on: Discord bot, games and other stuff.<br><br>Collaborating with: @danhowe0<br>Pronouns: Any<br><br><br> :3<br>Omni, Biro, Demi
 
 
 ## 🌐 Socials:
