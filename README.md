@@ -13,15 +13,15 @@ Currently learning: Python and Lua.<br>Currently working on: Discord bot, games 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Guardstu53-sys&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Guardstu53-sys&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guardstu53-sys&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guardstu53-sys&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Guardstu53-sys&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=guardstu53-sys&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Guardstu53-sys&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=guardstu53-sys&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Guardstu53-sys&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=guardstu53-sys&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
