@@ -18,6 +18,10 @@ Currently learning: Python and Lua.<br>Currently working on: Discord bot, games 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=guardstu53-sys&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=guardstu53-sys&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=guardstu53-sys&icon=7&color=10)](https://visitcount.itsvg.in)
 
